@@ -32,3 +32,14 @@ body {
 .kowai {
     font-family: 'kowai';
 }
+
+@font-face {
+    font-family: 'LightNovelPOPv2';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/font/LightNovelPOPv2.woff) format('woff');
+}
+
+.LightNovelPOPv2 {
+    font-family: 'LightNovelPOPv2';
+}
