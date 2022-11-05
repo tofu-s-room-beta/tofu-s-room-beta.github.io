@@ -43,3 +43,14 @@ body {
 .LightNovelPOPv2 {
     font-family: 'LightNovelPOPv2';
 }
+
+@font-face {
+    font-family: 'framboiseB';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/font/framboiseB.woff) format('framboiseB');
+}
+
+.framboiseB {
+    font-family: 'framboiseB';
+}
